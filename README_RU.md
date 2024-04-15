@@ -1,4 +1,4 @@
-# ![logo](./logo.png "Logo")
+# ![logo](./src/logo.png "Logo")
 
 ## Krosis
 
