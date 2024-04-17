@@ -2,6 +2,19 @@
 
 ![logo](./src/logo.png "Logo")
 
+## Krosis v0.6.1
+
+- Updated _Northern Roads Patches_
+- Fixed some textures in Helgen and Ryn's Overhauls
+- Updated translations
+- Fixed Equipment Physics when changing positions + added _CBPC Equipment physics - Real Tight config_
+- Updated _SSE Engine Fixes_
+- Removed _Dragonactorscript Infinite Loop Fix_ since _KS Dragons Overhaul_ contains their own fix
+- Removed _SB - Better Blending Helgen Mud_ because it's not needed thanks to _AP_
+- Removed some minor mods and fixes because it was worthless
+- Added new Elisif replacer
+- Removed Krosis Picturesque profile due to not supporting it for now
+
 ## Krosis v0.6
 
 - Reverted Stances to MCM version
