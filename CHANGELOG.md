@@ -2,6 +2,48 @@
 
 ![logo](./src/logo.png "Logo")
 
+## Krosis v0.7
+
+- Updated translations
+- Updated _OStim Community Resource_
+- Added _Open Animations 3PP_
+- Reran Pandora to add Elden Counter behaviors to the engine
+- Added _Eclipse Mage Outfit HDT-SMP_ and SPID distribution
+- Added 8-way dodge, thanks to Dynamic Dodge
+- Added a hella bunch of new armors and some SPIDs as well
+- Added new weapons and patches for OAR
+- Updated _Racial Skin Variance_
+- Added new animations
+- Added _Unread Books Glow MCM_
+- Added _Left Hand Rings_
+- Added new recordings to MCM Recorder
+- Updated some of TrueHUD settings for the bosses
+- Patched OWL lists for consistency with the added weapons
+- Updated statues textures
+- Included _OCPA_ in wj compiler settings
+- Removed _Completionist_ due to inconsistances with UI
+- Removed _Equipment Durability System NG_
+- Removed _Perks Per Level_
+- Fixed missing textures for draugrs
+- Updated _SkyValor_
+- Added _Magicka Flow - A Magicka Regeneration Overhaul_
+- Updated _SkyValor - 4thUnknown's Creatures_ and patched some creatures to prevent CTD
+- Added _Mihail Mods - SkyValor - Patch_ and patched some missing creatures as well
+- Rebuild translations database from scratch
+- Added _Smart Optimal Salves - Optimal Potion Hotkey MCM_
+- Added _Experience - Synthesis Patcher_ and patched all new creatures to have consistency with _Experience_
+- Reduced sprint movespeed
+- Added _Menu Maid 2_
+- Added a bunch of racemenu presets
+- Nerfed _KS Dragon Overhaul 2_ dragons thanks to _KS Dragon Overhaul 2 Less Difficulty_ mod
+- Added _Elder Creed - Movement II_ as default non-armor walk-run animations
+- Fixed issues with _Ryan's Secunda's Kiss_ and _EmbersXD_ (temporary solution until CK time)
+- Fixed incorrect _Skyshard_ LODs
+- Removed _Elden Rim - Weapon Arts_ except base due to "overkill" and inconsistance mechanics for the Ashes Of War and combat overhaul
+- Updated _SSE-AT_
+- Added some 3BA presets to OBody pool
+- Added dragon claws auto-unlock
+
 ## Krosis v0.6.1
 
 - Updated _Northern Roads Patches_
