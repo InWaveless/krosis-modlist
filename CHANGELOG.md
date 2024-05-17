@@ -2,6 +2,65 @@
 
 ![logo](./src/logo.png "Logo")
 
+## Krosis v0.8
+
+- Fixed dialogue bugs (no interactions)
+- Fixed navmeshes in Whiterun
+- Removed _Dawn Of Skyrim - Modern Patches_ due to broken navmeshes
+- Added _FDE - Jordis_
+- Added _Complete Alchemy and Cooking Overhaul_ and nessesary patches
+- Added _Complete Crafting Overhaul Remastered_ and patched all recipies + some balance patches for added items
+- Fixed missing dialogue bug + bug with looting
+- Updated _Plus Combat - A Modern Combat Overhaul_
+- Added _Marked Treasure SSE_
+- Added _FDE - Erik The Slayer_
+- Fixed dark face when completing Mage's College
+- Added a bunch of vanilla quest expansions (Save The Icerunner, Blood On The Ice Redux etc.)
+- Added some 3BA presets to OBody pool
+- Added _Honed Metal Additional Materials UPDATED_
+- Fixed Companions quest
+- Added _Quick Light SE_
+- Fixed absurd high armor rating (and Miraak fight as well)
+- Fixed some priest models
+- Replaced _Optimal Salves Hotkey MCM_ with _Swift Potion NG_
+- Improved stability and other minor fixes with smp
+- Updated some minor mods
+- Moved _Armor Rating Recalculator_ to optionals since it can make some boss fights insanely difficult even on adept
+- Added alternate perspective additions
+- Added _Faithful Faces CC_
+- Downgraded NPC skin to 2k
+- Added _Modular Mage_ outfit
+- Added _Definitely Not A Furry Animations (Woofs)_
+- Updated translations
+- Added some new replacers for NPC
+- Added _Meridia's Order_ questline
+- Added _Metallurgy_ retextures
+- Added _Wyrmstooth_
+- Added _Falskaar_
+- Added _Konahrik's Accoutrements_
+- Added _The Gray Cowl of Nocturnal SE_
+- Added _The Tools of Kagrenac_
+- Added _DudelSaur's Bone Wolf Expansion_
+- Added _Teldryn Serious - A Teldryn Sero Backstory Quest SSE_
+- Added _Project AHO_
+- Added _Saints & Seducers EC_
+- Added LOTD and a lot of patches
+- Patched almost all new added quests
+- LODs rebuilded to include new lands
+- Overhauled Dawnguard and Dragonborn DLC
+- Added _Twinblades of Skyrim_ and movesets
+- Regenerated synthesis and patched sounds
+- Added some settings that i forgot to add
+- Added _FDE - Lydia_
+- Added _Dryads - Mihail Monsters and Animals (SE-AE version) (''spriggan'')_
+- Added _OBody NG Configuration File with Base CBBE and HIMBO Presets Blacklisted_
+- Replaced some texture replacers to be more perfomance friendly
+- Fixed freeze in fallowstone cave
+- Fixes for OWL (merged patch for all new weapons)
+- Added _Heavy Armoury_
+- Another try to fix CTD
+- Added _Sunhelm_ as optionals
+
 ## Krosis v0.7
 
 - Updated translations
