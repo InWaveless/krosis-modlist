@@ -2,6 +2,14 @@
 
 ![logo](./src/logo.png "Logo")
 
+## Krosis v0.8.1
+
+- Added Skyrim Revamped for unleveled dungeons
+- Updated some texture mods
+- Fixed missing textures
+- Another try to improve stability (a lot of mods was removed/replaced i don't even remember which ones)
+- Added Koma Inventory Tweaks, and all available inventory icons at the moment
+
 ## Krosis v0.8
 
 - Fixed dialogue bugs (no interactions)
